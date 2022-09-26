@@ -32,6 +32,15 @@ Companies are spending billions on machine learning projects, but it’s money w
 > “The data science practitioner knows that real-world machine learning involves more than just machine learning model training. This book demystifies the hidden technical debt in modern machine learning workflows such that you can put the lab and factory data science patterns into production as repeatable workflows.”
 **—Josh Patterson, CEO, Patterson Consulting, Coauthor of Deep Learning: A Practitioner’s Approach and Kubeflow Operations Guide**
 
+> “Wonderfully readable, Building Machine Learning Pipeline serves not only as a comprehensive guide to help data scientists and ML engineers build automated and reproducible ML pipelines, but it is also the only authoritative book on the subject. The book provides an overview of the clearly defined components needed to architect ML pipelines successfully and walks you through hands-on code examples in a practical manner.”
+**—Adewale Akinfaderin, Data Scientist, Amazon Web Services**
+
+> “I really enjoyed reading Building Machine Learning Pipelines. Having used TFX for several years internally at Google as it was growing, I must say I wish I had your book back then instead of figuring this all out on my own. You would have saved me many months of effort and confusion. Thanks for writing such a high quality guide!”
+**—Lucas Ackerknecht, Machine Learning Specialist, Anti-Abuse Machine Learning, Google**
+
+> “We all have some of these amazing prototype models lying around. This book will introduce you to the tools and techniques that will help you take that prototype to production. Not only that but you will also build a complete end-to-end pipeline around it so that any future enhancements get delivered automatically and smoothly. This is a great book for beginners in ML ops who want to take their skills to the next level and collaborate with larger teams to help realize the values of innovative new models.”
+**—Vikram Tiwari, Cofounder, Omni Labs, Inc.**
+
 # Overview of the Chapters
 
 **Chapter 1** Introduction gives an overview of machine learning pipelines, discusses when you should use them, and describes all the steps that make up a pipeline. We also introduce the example project we will use throughout the book.
