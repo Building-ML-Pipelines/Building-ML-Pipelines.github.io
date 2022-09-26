@@ -1,6 +1,6 @@
 # Building Machine Learning Pipelines
 
-[picture]
+![image](https://github.com/Building-ML-Pipelines/Building-ML-Pipelines.github.io/raw/main/book_cover_jul20.png]
 
 ## Order your copy today!
 
