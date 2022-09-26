@@ -1,12 +1,17 @@
 ![image](https://github.com/Building-ML-Pipelines/Building-ML-Pipelines.github.io/raw/main/book_cover_jul20.png)
 
-{:refdef: style="text-align: center;"}
+
 # Order your copy today!
 
+{:refdef: style="text-align: center;"}
 [Read on the O'Reilly platform](https://learning.oreilly.com/library/view/building-machine-learning/9781492053187/)
+{: refdef}
 
+{:refdef: style="text-align: center;"}
 [Order from Amazon](https://www.amazon.com/Building-Machine-Learning-Pipelines-Automating/dp/1492053198/)
+{: refdef}
 
+{:refdef: style="text-align: center;"}
 [Order from Powell’s](https://www.powells.com/book/building-machine-learning-pipelines-9781492053194)
 {: refdef}
 
