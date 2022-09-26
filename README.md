@@ -14,11 +14,17 @@
 [Order from Powell’s](https://www.powells.com/book/building-machine-learning-pipelines-9781492053194)
 {: refdef}
 
-# Want to learn more about Machine Learning beyond the model architectures? Then this book is for you!
+# From the Preface
+Everybody’s talking about machine learning. It’s moved from an academic discipline to one of the most exciting technologies around. From understanding video feeds in self-driving cars to personalizing medications, it’s becoming important in every industry. While the model architectures and concepts have received a lot of attention, machine learning has yet to go through the standardization of processes that the software industry experienced in the last two decades. In this book, we’d like to show you how to build a standardized machine learning system that is automated and results in models that are reproducible.
 
-Companies are spending billions on machine learning projects, but it’s money wasted if the models can’t be deployed effectively. In this book, Hannes Hapke and Catherine Nelson walk you through the steps of automating a machine learning pipeline using the TensorFlow ecosystem. You’ll learn the techniques and tools that will cut deployment time from days to minutes, so that you can focus on developing new models rather than maintaining legacy systems.
+# Who Is This Book For?
+The primary audience for the book is data scientists and machine learning engineers who want to go beyond training a one-off machine learning model and who want to successfully productize their data science projects.
 
-# What did readers think?
+You should be comfortable with basic machine learning concepts and familiar with at least one machine learning framework (e.g., PyTorch, TensorFlow, Keras). The machine learning examples in this book are based on TensorFlow and Keras, but the core concepts can be applied to any framework.
+
+A secondary audience for this book is managers of data science projects, software developers, or DevOps engineers who want to enable their organization to accelerate their data science projects. If you are interested in better understanding automated machine learning life cycles and how they can benefit your organization, the book will introduce a toolchain to achieve exactly that.
+
+# What Did Readers Think?
 
 > “I wish this book had existed when I started working in production ML! It’s an outstanding resource for getting a comprehensive view of production ML systems in general, and TFX in particular. Hannes and Catherine have worked directly with the TensorFlow team to get the most accurate information available for including in this book, and then explained it in clear, concise explanations and examples.”
 **—Robert Crowe, TensorFlow Developer Advocate, Google**
