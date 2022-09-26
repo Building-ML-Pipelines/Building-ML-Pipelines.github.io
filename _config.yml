@@ -1,3 +1,4 @@
-theme: minima
+theme: minima:
+  skin: dark
 title: Building Machine Learning Pipelines
 description: A machine learning publication by Hannes Hapke and Catherine Nelson
